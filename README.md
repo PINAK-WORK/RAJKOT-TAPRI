@@ -36,9 +36,9 @@ Rajkot Tapri is a live map built for the city's chai lovers. Find exactly which 
 
 ### 🐶 Say Hi !!, I dont bite
 
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pinak_dhoklu/)
-[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pinak_dhoklu)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/pinak_dhoklu)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hi_pinak/)
+[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hi_pinak)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/hi_pinak)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pinak.space/)
 
 <img src="https://i.pinimg.com/originals/24/2e/37/242e379f970c22bf30e1689290627058.gif" alt="App Demo" hight="100" width="600"/>
